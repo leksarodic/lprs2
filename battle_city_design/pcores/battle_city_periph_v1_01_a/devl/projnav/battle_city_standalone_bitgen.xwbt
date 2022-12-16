@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\materija\RA218-2015\LPRS2\projekat\new_rally_x\battle_city_design\pcores\battle_city_periph_v1_01_a\devl\projnav\battle_city_standalone.ncd
+OUTFILE=D:\materija\RA218-2015\LPRS2\projekat\new_rally_x\battle_city_design\pcores\battle_city_periph_v1_01_a\devl\projnav\battle_city_standalone.bit
+FAMILY=Spartan6
+PART=xc6slx45-2fgg676
+WORKINGDIR=D:\materija\RA218-2015\LPRS2\projekat\new_rally_x\battle_city_design\pcores\battle_city_periph_v1_01_a\devl\projnav
+LICENSE=ISE
+USER_INFO=209858334_178080923_210593072_268
